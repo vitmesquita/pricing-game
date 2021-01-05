@@ -1,6 +1,6 @@
 import os
 
-path_projeto = r'D:\Users\vicml\Documents\Projetos\CompeticaoAtuaria\A'
+path_projeto = r'D:\Users\vicml\Documents\Projetos\pricing-game\A'
 
 path_dados = os.path.join(path_projeto,'dados')
 
